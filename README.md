@@ -20,7 +20,7 @@
 <br/>
 
 <a href="https://github.com/TechieArtist">
-    <img src="https://github-stats-alpha.vercel.app/api?username=silent21&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=TechieArtist&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
 </p>
@@ -39,7 +39,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [FaceGAN](https://github.com/TechieArtist/faceGAN) | <img alt="Stars" src="https://img.shields.io/github/stars/silent21/FaceGan?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [CNN Image Classifier](https://github.com/silent21/CNN-Image-Classifier) | <img alt="Stars" src="https://img.shields.io/github/stars/silent21/CNN-Image-Classifier?style=flat-square&labelColor=black"/> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow)|
+| [CNN Image Classifier](https://github.com/silent21/CNN-Image-Classifier) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/CNN-Image-Classifier?style=flat-square&labelColor=black"/> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow)|
 
 </td><td>
 
