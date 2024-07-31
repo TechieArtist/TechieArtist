@@ -16,6 +16,10 @@
 <a href="evanb32@yahoo.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
+</a>  
+<a href="file:///C:/Users/evanb/iCloudDrive/Last%20stand/Evan_Butler_Resume%20(1).pdf">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
 
 <br/>
 
