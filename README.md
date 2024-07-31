@@ -4,13 +4,13 @@
 </a>
 <br/>
 
-<a href="https://huggingface.co/silent21/FaceGan">
+<a href="https://huggingface.co/TechieArtist/FaceGan">
     <img src="https://img.shields.io/badge/HuggingFace-Model-orange?style=flat-square&logo=huggingface">
 </a>  
-<a href="https://github.com/silent21">
+<a href="https://github.com/TechieArtist">
     <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github">
 </a>
-<a href="https://www.linkedin.com/in/silent21/">
+<a href="https://www.linkedin.com/in/TechieArtist/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:silent21@gmail.com">
@@ -19,7 +19,7 @@
 
 <br/>
 
-<a href="https://github.com/silent21">
+<a href="https://github.com/TechieArtist">
     <img src="https://github-stats-alpha.vercel.app/api?username=silent21&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
