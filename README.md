@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/silent21">
+<a href="https://github.com/TechieArtist">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Silent21;AI+Enthusiast+%7C+Software+Developer;Machine+Learning+%7C+Deep+Learning+%7C+Cloud+Computing" alt="Typing SVG" />
 </a>
 <br/>
