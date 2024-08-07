@@ -16,7 +16,7 @@
 <a href="mailto:evanb32@yahoo.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href="https://evanb.online/">
+<a href="https://evanatelier.com/">
     <img src="https://img.shields.io/badge/Portfolio-Site-green?style=flat-square&logo=firefox">
 </a>  
 <br/>
@@ -89,7 +89,7 @@ Experienced AI professional specializing in **machine learning** and **deep lear
 ### 🌐 Contact Information
 - **Email**: [evanb32@yahoo.com](mailto:evanb32@yahoo.com)
 - **LinkedIn**: [Evan Butler](https://www.linkedin.com/in/evan-butler-538993318/)
-- **Portfolio**: [evanb.online](https://evanb.online)
+- **Portfolio**: [evanbatelier.com](https://evanatelier.com)
 - **GitHub**: [TechieArtist](https://github.com/TechieArtist)
 - **Hugging Face**: [silent21](https://huggingface.co/silent21)
 
