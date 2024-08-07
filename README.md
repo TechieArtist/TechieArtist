@@ -58,13 +58,21 @@ Experienced AI professional specializing in **machine learning** and **deep lear
 
 | Title | Stars | Technologies |
 |--|--|--|
-| [FaceGAN](https://github.com/TechieArtist/faceGAN) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/FaceGan?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
-| [MnistGAN](https://github.com/TechieArtist/GANproject) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/GANproject?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
-| [CNN Image Classifier](https://github.com/TechieArtist/CNN-Image-Classifier) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/CNN-Image-Classifier?style=flat-square&labelColor=black"/> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) |
-| [Student Data Analysis](https://github.com/TechieArtist/Student-data-analysis) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/Student-data-analysis?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
-| [LTSM Chatbot](https://github.com/TechieArtist/chat2) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/Chat2?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
+| [FaceGAN](https://github.com/TechieArtist/faceGAN) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/FaceGan?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch), ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
+| [MnistGAN](https://github.com/TechieArtist/GANproject) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/GANproject?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch), ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python), ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
+| [CNN Image Classifier](https://github.com/TechieArtist/CNN-Image-Classifier) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/CNN-Image-Classifier?style=flat-square&labelColor=black"/> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow), ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
+| [Student Data Analysis](https://github.com/TechieArtist/Student-data-analysis) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/Student-data-analysis?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas), ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy), ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=sqlite) |
+| [LTSM Chatbot](https://github.com/TechieArtist/chat2) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/Chat2?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch), ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python), ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-black?style=flat-square&logo=huggingface) |
 
 </td><td>
+
+| Title | Stars | Technologies |
+|--|--|--|
+| [Automated Deployment Script](https://github.com/TechieArtist/AutoDeploy) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/AutoDeploy?style=flat-square&labelColor=black"/> | ![Bash](https://img.shields.io/badge/Bash-black?style=flat-square&logo=gnu-bash), ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) |
+| [Web Scraper](https://github.com/TechieArtist/WebScraper) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/WebScraper?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python), ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-black?style=flat-square&logo=beautifulsoup), ![Selenium](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=selenium) |
+
+</td></tr> 
+</table>
 
 | Title | Stars | Technologies |
 |--|--|--|
