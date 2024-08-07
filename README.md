@@ -26,14 +26,31 @@
 </a>
 </p>
 
-* 📖 Currently focusing on AI and Deep Learning solutions in cloud environments, specifically leveraging PyTorch and TensorFlow for scalable model deployment.
+---
 
-* 💻 Developing and optimizing a **GAN model for facial data** and sharing it on [Hugging Face](https://huggingface.co/silent21/FaceGan). Actively exploring novel approaches to model training and performance enhancement.
-
-* 🎓 Aiming to become an expert in **Machine Learning** with extensive hands-on experience in **Data Engineering** and **Cloud Computing**.
+### 📖 Professional Summary
+Experienced AI professional specializing in **machine learning** and **deep learning**. Proven ability to develop and deploy complex models, with a passion for continuous learning and innovation. Hands-on experience in **data engineering**, **cloud computing**, and **software development**.
 
 ### 🖥️ Machine Learning / Deep Learning Skills
-![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=jupyter&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV) ![SQL](https://img.shields.io/badge/-SQL-444444?style=flat-square&logo=sqlite)
+![Python](https://img.shields.io/badge/-Python-eee?style=flat-square&logo=python) ![SQL](https://img.shields.io/badge/-SQL-eee?style=flat-square&logo=sqlite) ![Rest API](https://img.shields.io/badge/-REST_API_Design-eee?style=flat-square&logo=api)  
+![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=jupyter&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV)
+
+### 📚 Education
+- **Vocational School: AI Systems**  
+  Nihonkougakuin - Tokyo  
+  *2023 - 2024*  
+  Focused on **AI systems**, covering supervised/unsupervised learning, neural networks, and AI ethics.
+
+### 🛠️ Skills & Technologies
+- **Programming**: Python, SQL, Rest API Design  
+- **Data Science & Libraries**: Statistical Analysis, Pandas, Numpy  
+- **Infrastructure**: Docker, Git, etc.  
+- **Databases & Data Engineering**: Spark, MySQL, KAFKA  
+- **Machine Learning**: SVM, Regression, NLP, K-Means  
+- **Deep Learning**: TensorFlow, PyTorch, Neural Networks - LSTM and RNN
+
+### 🏆 Certifications
+- **Coursera: Machine Learning Specialization**
 
 ### 🖥️ Open-Source Projects
 <table>
@@ -43,9 +60,9 @@
 | Title | Stars | Technologies |
 |--|--|--|
 | [FaceGAN](https://github.com/TechieArtist/faceGAN) | <img alt="Stars" src="https://img.shields.io/github/stars/silent21/FaceGan?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
-| [CNN Image Classifier](https://github.com/silent21/CNN-Image-Classifier) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/CNN-Image-Classifier?style=flat-square&labelColor=black"/> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) |
-| [Data Analysis Toolkit](https://github.com/TechieArtist/Data-Analysis-Toolkit) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/Data-Analysis-Toolkit?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
-| [Data Analysis Toolkit](https://github.com/TechieArtist/Data-Analysis-Toolkit) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/Data-Analysis-Toolkit?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
+| [CNN Image Classifier](https://github.com/TechieArtist/CNN-Image-Classifier) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/CNN-Image-Classifier?style=flat-square&labelColor=black"/> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) |
+| [Student Data Analysis](https://github.com/TechieArtist/Student-data-analysis) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/Student-data-analysis?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
+
 </td><td>
 
 | Title | Stars | Technologies |
@@ -56,3 +73,20 @@
 </td></tr> 
 </table>
 
+### 🔧 Work Experience
+- **Programming Intern**  
+  *Day Service Star Education, Tokyo, Japan*  
+  *January 2024 - July 2024*  
+  Taught coding fundamentals (Python, GLSL, Java) to students, enhancing their programming skills.
+
+- **Information Technology Technician**  
+  *FFTechnicians, Times Square*  
+  *May 2021 - December 2021*  
+  Provided PC troubleshooting services across various company buildings in Times Square.
+
+### 🌐 Contact Information
+- **Email**: [evanb32@yahoo.com](mailto:evanb32@yahoo.com)
+- **LinkedIn**: [Evan Butler](https://www.linkedin.com/in/evan-butler-538993318/)
+- **Portfolio**: [evanb.online](https://evanb.online)
+- **GitHub**: [TechieArtist](https://github.com/TechieArtist)
+- **Hugging Face**: [silent21](https://huggingface.co/silent21)
