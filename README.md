@@ -45,6 +45,7 @@
 | [FaceGAN](https://github.com/TechieArtist/faceGAN) | <img alt="Stars" src="https://img.shields.io/github/stars/silent21/FaceGan?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
 | [CNN Image Classifier](https://github.com/silent21/CNN-Image-Classifier) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/CNN-Image-Classifier?style=flat-square&labelColor=black"/> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) |
 | [Data Analysis Toolkit](https://github.com/TechieArtist/Data-Analysis-Toolkit) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/Data-Analysis-Toolkit?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
+| [Data Analysis Toolkit](https://github.com/TechieArtist/Data-Analysis-Toolkit) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/Data-Analysis-Toolkit?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
 </td><td>
 
 | Title | Stars | Technologies |
