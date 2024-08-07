@@ -38,7 +38,6 @@ Experienced AI professional specializing in **machine learning** and **deep lear
 ### 📚 Education
 - **Vocational School: AI Systems**  
   Nihonkougakuin - Tokyo  
-  *2023 - 2024*  
   Focused on **AI systems**, covering supervised/unsupervised learning, neural networks, and AI ethics.
 
 ### 🛠️ Skills & Technologies
