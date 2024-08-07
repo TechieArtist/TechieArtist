@@ -91,3 +91,28 @@ Experienced AI professional specializing in **machine learning** and **deep lear
 - **Portfolio**: [evanb.online](https://evanb.online)
 - **GitHub**: [TechieArtist](https://github.com/TechieArtist)
 - **Hugging Face**: [silent21](https://huggingface.co/silent21)
+
+---
+
+### 🎉 Achievements & Contributions
+- **Improved Data Quality**: Achieved a 20% improvement in data quality and a 15% reduction in missing data through advanced preprocessing techniques.
+- **Predictive Modeling**: Developed models achieving up to 85% accuracy in predicting student performance, with key predictors like attendance and homework.
+- **Transformer Chatbot**: Fine-tuned a Transformer-based chatbot with a custom dataset of 50,000 conversational pairs, achieving a BLEU score of 0.35 and 85% user satisfaction.
+- **Innovative Solutions**: Enhanced chatbot context retention and response generation using advanced attention mechanisms.
+
+### 🛠️ Technologies & Tools
+- **Cloud Platforms**: AWS, Azure
+- **Version Control**: Git, GitHub
+- **DevOps & CI/CD**: Jenkins, Docker
+- **Big Data Technologies**: Hadoop, Spark
+- **Visualization**: Matplotlib, Seaborn, Plotly
+- **Languages**: English (Native), Japanese (Proficient)
+
+### 💼 Professional Goals
+- **Current Focus**: Enhancing expertise in **AI and deep learning** solutions, particularly in scalable model deployment using **PyTorch** and **TensorFlow**.
+- **Future Aspirations**: Aiming to become a recognized expert in **machine learning** with a focus on innovative AI applications in various industries.
+
+---
+
+### 🤝 Let's Connect!
+I'm always open to discussing exciting projects and collaboration opportunities. Feel free to reach out through any of the channels listed above!
