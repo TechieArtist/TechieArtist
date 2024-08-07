@@ -74,13 +74,6 @@ Experienced AI professional specializing in **machine learning** and **deep lear
 </td></tr> 
 </table>
 
-| Title | Stars | Technologies |
-|--|--|--|
-| [Automated Deployment Script](https://github.com/TechieArtist/AutoDeploy) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/AutoDeploy?style=flat-square&labelColor=black"/> | ![Bash](https://img.shields.io/badge/Bash-black?style=flat-square&logo=gnu-bash) |
-| [Web Scraper](https://github.com/TechieArtist/WebScraper) | <img alt="Stars" src="https://img.shields.io/github/stars/TechieArtist/WebScraper?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-black?style=flat-square&logo=beautifulsoup) |
-
-</td></tr> 
-</table>
 
 ### 🔧 Work Experience
 - **Programming Intern**  
